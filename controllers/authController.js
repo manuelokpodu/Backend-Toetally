@@ -68,5 +68,13 @@ const login = async (req, res, next) => {
   }
 };
 
+const getUser = async (req, res) => {
+  const user = await User.findById(req.params.id);
+
+  res
+    .status(200)
+    .json({ success: true, message: "User details retrieved", user });
+};
+
 // Export the signup and login functions so that they can be used in routing.
-module.exports = { signup, login };
+module.exports = { signup, login, getUser };

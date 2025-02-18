@@ -15,5 +15,7 @@ router.post("/signup", authController.signup);
 // When a POST request is sent to "/api/auth/login", the login function in authController is executed.
 router.post("/login", authController.login);
 
+router.get("/getUser/:id", authController.getUser);
+
 // Export the router so it can be used by the main application.
 module.exports = router;
