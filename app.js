@@ -19,6 +19,24 @@ const cartRoutes = require("./routes/cartRoutes"); // Routes for shopping cart o
 const app = express();
 
 // Use CORS middleware to allow cross-origin requests.
+const corsOptions = {
+  origin: (origin, callback) => {
+    const allowedOrigins = [
+      "https://toe-tally-frontend-lzmv.vercel.app",
+      "http://localhost:3000",
+    ];
+
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error("Not allowed by CORS"));
+    }
+  },
+  methods: ["GET", "POST", "PUT", "DELETE"],
+  allowedHeaders: ["Content-Type", "Authorization"],
+  credentials: true,
+};
+
 app.use(cors());
 
 // Use express.json() middleware to parse JSON payloads in incoming requests.
@@ -59,7 +77,6 @@ app.use((err, req, res, next) => {
 
 // Export the Express app instance so it can be used in other modules (e.g., server.js).
 module.exports = app;
-
 
 // manuelokpodu
 // vku2APPgDy5sEwMI

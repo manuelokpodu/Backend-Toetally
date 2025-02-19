@@ -10,5 +10,5 @@ const router = express.Router();
 // When a POST request is made to this endpoint, the newsletter controller function is executed.
 router.post("/newsletter", newsletter);
 
-// Export the router so that it can be used in the main application.
+// Export the router so that it can be us
 module.exports = router;

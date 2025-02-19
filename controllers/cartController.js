@@ -97,28 +97,27 @@ const updateQuantity = async (req, res) => {
   }
 };
 
-// ==================================
-// Controller function to remove an item from the cart.
+
 const removeFromCart = async (req, res) => {
   try {
-    // Extract the productId from the request parameters.
+    
     const { productId } = req.params;
-    // Get the current user's id.
+    
     const userId = req.user.id;
 
-    // Find the user's cart.
+    
     const cart = await Cart.findOne({ user: userId });
-    // If no cart is found, respond with a 404 Not Found.
+    
     if (!cart) {
       return res.status(404).json({ message: "Cart not found" });
     }
 
-    // Filter out the item that matches the given productId.
+    
     cart.items = cart.items.filter(
       (item) => item.product.toString() !== productId
     );
 
-    // Save the updated cart back to the database.
+    
     await cart.save();
   
     res.status(200).json(cart);

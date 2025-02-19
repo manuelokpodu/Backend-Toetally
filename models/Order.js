@@ -22,16 +22,12 @@ const orderSchema = new mongoose.Schema(
       },
     ],
 
-    // 'total' field: The total cost of the order.
-    // This field is required.
     total: { type: Number, required: true },
 
-    // 'paymentStatus' field: Indicates the current payment status of the order.
-    // It defaults to "pending" if no value is provided.
     paymentStatus: { type: String, default: "pending" },
   },
-  // Enable timestamps which automatically add 'createdAt' and 'updatedAt' fields.
-  { timestamps: true }
+
+  { timestamps: true },
 );
 
 // Export the Order model based on the defined orderSchema.

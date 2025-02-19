@@ -9,6 +9,9 @@ const productTagEnum = [
   "LOUIS VUITTON",
   "BALENCIAGA",
   "UNDER ARMOUR",
+  "Christian Louboutin",
+  "Skechers",
+  "New Balance",
 ]; // You can add more brands as needed
 
 // Define the Shoe Schema

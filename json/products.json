@@ -1,17 +1,20 @@
 [
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "LOUIS VUITTON “Trainer Snowboot”",
+    "productTag": "LOUIS VUITTON",
+    "price": 430000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -30,11 +33,14 @@
     "price": 60000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739967018/adidas_logo_kxwpk3.png"
+    ],
     "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png"
     ],
     "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
@@ -50,18 +56,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "BALENCIAGA",
+    "productTag": "BALENCIAGA",
+    "price": 550000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965188/balenciaga_logo_veozae.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739964763/newarrival3_aehe4f.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739964763/newarrival3_aehe4f.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739964763/newarrival3_aehe4f.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739964763/newarrival3_aehe4f.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739964763/newarrival3_aehe4f.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -75,18 +84,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "NIKE CALM “PANDA” ",
+    "productTag": "NIKE",
+    "price": 50000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965776/black_nike_logo_jpidmi.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965480/newarrival4_mvpgib.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965480/newarrival4_mvpgib.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965480/newarrival4_mvpgib.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965480/newarrival4_mvpgib.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965480/newarrival4_mvpgib.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -100,18 +112,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "BALENCIAGA",
+    "productTag": "BALENCIAGA",
+    "price": 430000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965188/balenciaga_logo_veozae.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965962/newarriival5_wn0hxy.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965962/newarriival5_wn0hxy.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965962/newarriival5_wn0hxy.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965962/newarriival5_wn0hxy.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965962/newarriival5_wn0hxy.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -125,18 +140,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "CHRISTIAN LOUBOUTIN",
+    "productTag": "Christian Louboutin",
+    "price": 1350000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966621/christian_louboutin_logo_zuf73l.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966373/newarrival6_oowb0n.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966373/newarrival6_oowb0n.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966373/newarrival6_oowb0n.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966373/newarrival6_oowb0n.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966373/newarrival6_oowb0n.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -150,18 +168,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
+    "title": "ADIDAS “GAZELLE”",
     "productTag": "ADIDAS",
-    "price": 60000,
+    "price": 400000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739967018/adidas_logo_kxwpk3.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966807/newarrival7_nvucft.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966807/newarrival7_nvucft.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966807/newarrival7_nvucft.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966807/newarrival7_nvucft.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966807/newarrival7_nvucft.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -175,18 +196,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "SKECHERS",
+    "productTag": "Skechers",
+    "price": 70000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739967442/skechers_sneakers_logo_wk6usm.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968543/newarrival8_jdhyad.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968543/newarrival8_jdhyad.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968543/newarrival8_jdhyad.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968543/newarrival8_jdhyad.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968543/newarrival8_jdhyad.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -200,18 +224,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "UNDER ARMOR",
+    "productTag": "UNDER ARMOUR",
+    "price": 95000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968818/under_armour_logo_unmdrm.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968694/newarrival9_vyfeau.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968694/newarrival9_vyfeau.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968694/newarrival9_vyfeau.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968694/newarrival9_vyfeau.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968694/newarrival9_vyfeau.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -225,18 +252,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "NEW BALANCE",
+    "productTag": "New Balance",
+    "price": 98000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739969077/new_balance_logo_yfmr6f.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968964/newarrival10_wx6e0x.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968964/newarrival10_wx6e0x.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968964/newarrival10_wx6e0x.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968964/newarrival10_wx6e0x.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968964/newarrival10_wx6e0x.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -250,18 +280,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "BALENCIAGA ",
+    "productTag": "BALENCIAGA",
+    "price": 430000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965188/balenciaga_logo_veozae.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739969491/BALENCIAGA_MEN_S_3XL_GRADIENT_SNEAKER_430_000_guug4e.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739969491/BALENCIAGA_MEN_S_3XL_GRADIENT_SNEAKER_430_000_guug4e.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739969491/BALENCIAGA_MEN_S_3XL_GRADIENT_SNEAKER_430_000_guug4e.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739969491/BALENCIAGA_MEN_S_3XL_GRADIENT_SNEAKER_430_000_guug4e.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739969491/BALENCIAGA_MEN_S_3XL_GRADIENT_SNEAKER_430_000_guug4e.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -275,18 +308,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "MEN'S TRIPLE S TAPE TYPE SNEAKER 500,000",
+    "productTag": "BALENCIAGA",
+    "price": 500000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965188/balenciaga_logo_veozae.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739970209/MEN_S_TRIPLE_S_TAPE_TYPE_SNEAKER_500_000_p4dlyr.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739970209/MEN_S_TRIPLE_S_TAPE_TYPE_SNEAKER_500_000_p4dlyr.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739970209/MEN_S_TRIPLE_S_TAPE_TYPE_SNEAKER_500_000_p4dlyr.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739970209/MEN_S_TRIPLE_S_TAPE_TYPE_SNEAKER_500_000_p4dlyr.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739970209/MEN_S_TRIPLE_S_TAPE_TYPE_SNEAKER_500_000_p4dlyr.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -300,18 +336,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "WOMEN'S CROCS™ BOOTIE IN BEIGE ",
+    "productTag": "BALENCIAGA",
+    "price": 200000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965188/balenciaga_logo_veozae.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739970723/WOMEN_S_CROCS_BOOTIE_IN_BEIGE_350_000_lgc6gb.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739970723/WOMEN_S_CROCS_BOOTIE_IN_BEIGE_350_000_lgc6gb.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739970723/WOMEN_S_CROCS_BOOTIE_IN_BEIGE_350_000_lgc6gb.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739970723/WOMEN_S_CROCS_BOOTIE_IN_BEIGE_350_000_lgc6gb.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739970723/WOMEN_S_CROCS_BOOTIE_IN_BEIGE_350_000_lgc6gb.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -325,18 +364,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "WOMEN'S CAGOLE 90MM BOOTIE",
+    "productTag": "BALENCIAGA",
+    "price": 430000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965188/balenciaga_logo_veozae.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739971262/WOMEN_S_CAGOLE_90MM_BOOTIE_fefxun.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739971262/WOMEN_S_CAGOLE_90MM_BOOTIE_fefxun.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739971262/WOMEN_S_CAGOLE_90MM_BOOTIE_fefxun.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739971262/WOMEN_S_CAGOLE_90MM_BOOTIE_fefxun.pngg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739971262/WOMEN_S_CAGOLE_90MM_BOOTIE_fefxun.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -350,18 +392,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "Christian Louboutin",
+    "productTag": "Christian Louboutin",
+    "price": 1350000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966621/christian_louboutin_logo_zuf73l.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739971765/Louis_Junior_P_Strass_Eternity_s4wtkp.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739971765/Louis_Junior_P_Strass_Eternity_s4wtkp.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739971765/Louis_Junior_P_Strass_Eternity_s4wtkp.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739971765/Louis_Junior_P_Strass_Eternity_s4wtkp.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739971765/Louis_Junior_P_Strass_Eternity_s4wtkp.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -375,18 +420,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "Christian Louboutin",
+    "productTag": "Christian Louboutin",
+    "price": 1350000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966621/christian_louboutin_logo_zuf73l.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739972372/Louis_Junior_Spikes_e6ofxf.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739972372/Louis_Junior_Spikes_e6ofxf.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739972372/Louis_Junior_Spikes_e6ofxf.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739972372/Louis_Junior_Spikes_e6ofxf.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739972372/Louis_Junior_Spikes_e6ofxf.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -400,18 +448,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "Christian Louboutin",
+    "productTag": "Christian Louboutin",
+    "price": 250000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966621/christian_louboutin_logo_zuf73l.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739972804/Kate_yf5med.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739972804/Kate_yf5med.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739972804/Kate_yf5med.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739972804/Kate_yf5med.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739972804/Kate_yf5med.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -425,18 +476,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "Christian Louboutin",
+    "productTag": "Christian Louboutin",
+    "price": 500000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966621/christian_louboutin_logo_zuf73l.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739973091/Astroloubi_zw4qye.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739973091/Astroloubi_zw4qye.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739973091/Astroloubi_zw4qye.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739973091/Astroloubi_zw4qye.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739973091/Astroloubi_zw4qye.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -450,18 +504,21 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "Christian Louboutin",
+    "productTag": "Christian Louboutin",
+    "price": 600000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966621/christian_louboutin_logo_zuf73l.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739973450/Chambeliss_zfw20i.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739973450/Chambeliss_zfw20i.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739973450/Chambeliss_zfw20i.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739973450/Chambeliss_zfw20i.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739973450/Chambeliss_zfw20i.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
@@ -475,18 +532,49 @@
     ]
   },
   {
-    "title": "ADIDAS LITE RACER",
-    "productTag": "ADIDAS",
-    "price": 60000,
+    "title": "Christian Louboutin",
+    "productTag": "Christian Louboutin",
+    "price": 1350000,
     "color": "Colour",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227207/Component_62_bwsbur.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/image_310_jpmzjz.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227205/Component_64_l1pxl3.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/Component_65_wjewen.png"
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966621/christian_louboutin_logo_zuf73l.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1738227206/image_316_hporei.png",
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739974103/Trailnrun_c0dcyz.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739974103/Trailnrun_c0dcyz.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739974103/Trailnrun_c0dcyz.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739974103/Trailnrun_c0dcyz.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739974103/Trailnrun_c0dcyz.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "LOUIS VUITTON “Trainer Snowboot”",
+    "productTag": "LOUIS VUITTON",
+    "price": 430000,
+    "color": "Colour",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
