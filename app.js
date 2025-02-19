@@ -20,18 +20,10 @@ const app = express();
 
 // Use CORS middleware to allow cross-origin requests.
 const corsOptions = {
-  origin: (origin, callback) => {
-    const allowedOrigins = [
-      "https://toe-tally-frontend-lzmv.vercel.app",
-      "http://localhost:3000",
-    ];
-
-    if (!origin || allowedOrigins.includes(origin)) {
-      callback(null, true);
-    } else {
-      callback(new Error("Not allowed by CORS"));
-    }
-  },
+  origin: [
+    "https://toe-tally-frontend-lzmv.vercel.app",
+    "http://localhost:5000",
+  ], // Allow both production and local development
   methods: ["GET", "POST", "PUT", "DELETE"],
   allowedHeaders: ["Content-Type", "Authorization"],
   credentials: true,
