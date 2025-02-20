@@ -22,7 +22,7 @@ const app = express();
 const corsOptions = {
   origin: [
     "https://toe-tally-frontend-lzmv.vercel.app",
-    "http://localhost:5000",
+    "http://localhost:5173",
   ], // Allow both production and local development
   methods: ["GET", "POST", "PUT", "DELETE"],
   allowedHeaders: ["Content-Type", "Authorization"],
