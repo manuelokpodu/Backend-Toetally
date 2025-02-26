@@ -583,9 +583,9 @@
     "price": 500000,
     "color": "Green",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "logo": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png"
-    ],
+    "logo": 
+      ["https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png"]
+    ,
     "image": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740390336/new_arrival21_nvcbbs.png",
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740390336/new_arrival21_nvcbbs.png",
