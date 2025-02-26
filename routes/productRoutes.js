@@ -16,4 +16,6 @@ router.post("/:id/like", authenticate, productController.likeProduct);
 
 router.post("/:id/unlike", authenticate, productController.unlikeProduct);
 
+
+
 module.exports = router;

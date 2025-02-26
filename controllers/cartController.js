@@ -1,11 +1,9 @@
 const Cart = require("../models/Cart");
-
 const Product = require("../models/Product");
 
 const addToCart = async (req, res) => {
   try {
     const { productId, quantity } = req.body;
-
     const userId = req.user.id;
 
     let cart = await Cart.findOne({ user: userId });
@@ -26,7 +24,11 @@ const addToCart = async (req, res) => {
 
     await cart.save();
 
-    res.status(200).json(cart);
+    const updatedCart = await Cart.findOne({ user: userId }).populate(
+      "items.product",
+    );
+
+    res.status(200).json(updatedCart);
   } catch (err) {
     res.status(500).json({ message: "Error adding to cart" });
   }
@@ -34,9 +36,15 @@ const addToCart = async (req, res) => {
 
 const getCart = async (req, res) => {
   try {
-    const cart = await Cart.findOne({ user: req.user.id }).populate(
+    let cart = await Cart.findOne({ user: req.user.id }).populate(
       "items.product",
     );
+
+    // If no cart exists, return an empty structure instead of null
+    if (!cart) {
+      cart = new Cart({ user: req.user.id, items: [] });
+      await cart.save();
+    }
 
     res.status(200).json(cart);
   } catch (err) {
@@ -47,9 +55,7 @@ const getCart = async (req, res) => {
 const updateQuantity = async (req, res) => {
   try {
     const { productId } = req.params;
-
     const { quantity } = req.body;
-
     const userId = req.user.id;
 
     const cart = await Cart.findOne({ user: userId });
@@ -67,10 +73,13 @@ const updateQuantity = async (req, res) => {
     }
 
     item.quantity = quantity;
-
     await cart.save();
 
-    res.status(200).json(cart);
+    const updatedCart = await Cart.findOne({ user: userId }).populate(
+      "items.product",
+    );
+
+    res.status(200).json(updatedCart);
   } catch (err) {
     res.status(500).json({ message: "Error updating quantity" });
   }
@@ -79,7 +88,6 @@ const updateQuantity = async (req, res) => {
 const removeFromCart = async (req, res) => {
   try {
     const { productId } = req.params;
-
     const userId = req.user.id;
 
     const cart = await Cart.findOne({ user: userId });
@@ -94,7 +102,12 @@ const removeFromCart = async (req, res) => {
 
     await cart.save();
 
-    res.status(200).json(cart);
+    // Fetch updated cart with product details
+    const updatedCart = await Cart.findOne({ user: userId }).populate(
+      "items.product",
+    );
+
+    res.status(200).json(updatedCart);
   } catch (err) {
     res.status(500).json({ message: "Error removing item" });
   }
