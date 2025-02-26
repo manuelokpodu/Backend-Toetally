@@ -49,9 +49,10 @@ app.use((err, req, res, next) => {
     .json({ message: err.message || "Internal Server Error" });
 });
 
+app.use(express.static(path.join(__dirname, "public")));
+
 module.exports = app;
 
 // manuelokpodu
 // vku2APPgDy5sEwMI
 // mongodb+srv://manuelokpodu:vku2APPgDy5sEwMI@cluster0.dkbks.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
