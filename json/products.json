@@ -3,7 +3,7 @@
     "title": "LOUIS VUITTON “Trainer Snowboot”",
     "productTag": "LOUIS VUITTON",
     "price": 430000,
-    "color": "Colour",
+    "color": "Brown",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png"
@@ -25,13 +25,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "newarrivals"
   },
   {
     "title": "ADIDAS LITE RACER",
     "productTag": "ADIDAS",
     "price": 60000,
-    "color": "Colour",
+    "color": "Black",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739967018/adidas_logo_kxwpk3.png"
@@ -53,13 +54,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "newarrivals"
   },
   {
     "title": "BALENCIAGA",
     "productTag": "BALENCIAGA",
     "price": 550000,
-    "color": "Colour",
+    "color": "Pink",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965188/balenciaga_logo_veozae.png"
@@ -81,13 +83,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "newarrivals"
   },
   {
     "title": "NIKE CALM “PANDA” ",
     "productTag": "NIKE",
     "price": 50000,
-    "color": "Colour",
+    "color": "Black",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965776/black_nike_logo_jpidmi.png"
@@ -109,13 +112,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "newarrivals"
   },
   {
     "title": "BALENCIAGA",
     "productTag": "BALENCIAGA",
     "price": 430000,
-    "color": "Colour",
+    "color": "Black",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965188/balenciaga_logo_veozae.png"
@@ -137,13 +141,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "newarrivals"
   },
   {
     "title": "CHRISTIAN LOUBOUTIN",
     "productTag": "Christian Louboutin",
     "price": 1350000,
-    "color": "Colour",
+    "color": "Rhode red",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966621/christian_louboutin_logo_zuf73l.png"
@@ -165,13 +170,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "newarrivals"
   },
   {
     "title": "ADIDAS “GAZELLE”",
     "productTag": "ADIDAS",
     "price": 400000,
-    "color": "Colour",
+    "color": "Red",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739967018/adidas_logo_kxwpk3.png"
@@ -193,13 +199,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "newarrivals"
   },
   {
     "title": "SKECHERS",
     "productTag": "Skechers",
     "price": 70000,
-    "color": "Colour",
+    "color": "White",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739967442/skechers_sneakers_logo_wk6usm.png"
@@ -221,13 +228,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "discount"
   },
   {
     "title": "UNDER ARMOR",
     "productTag": "UNDER ARMOUR",
     "price": 95000,
-    "color": "Colour",
+    "color": "Black",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739968818/under_armour_logo_unmdrm.png"
@@ -249,13 +257,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "discount"
   },
   {
     "title": "NEW BALANCE",
     "productTag": "New Balance",
     "price": 98000,
-    "color": "Colour",
+    "color": "White",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739969077/new_balance_logo_yfmr6f.png"
@@ -277,13 +286,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "discount"
   },
   {
     "title": "BALENCIAGA ",
     "productTag": "BALENCIAGA",
     "price": 430000,
-    "color": "Colour",
+    "color": "Red",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965188/balenciaga_logo_veozae.png"
@@ -305,13 +315,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "discount"
   },
   {
     "title": "MEN'S TRIPLE S TAPE TYPE SNEAKER 500,000",
     "productTag": "BALENCIAGA",
     "price": 500000,
-    "color": "Colour",
+    "color": "Black",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965188/balenciaga_logo_veozae.png"
@@ -333,13 +344,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "offers"
   },
   {
     "title": "WOMEN'S CROCS™ BOOTIE IN BEIGE ",
     "productTag": "BALENCIAGA",
     "price": 200000,
-    "color": "Colour",
+    "color": "Butter color",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965188/balenciaga_logo_veozae.png"
@@ -361,13 +373,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "offers"
   },
   {
     "title": "WOMEN'S CAGOLE 90MM BOOTIE",
     "productTag": "BALENCIAGA",
     "price": 430000,
-    "color": "Colour",
+    "color": "Black",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739965188/balenciaga_logo_veozae.png"
@@ -389,13 +402,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "offers"
   },
   {
     "title": "Christian Louboutin",
     "productTag": "Christian Louboutin",
     "price": 1350000,
-    "color": "Colour",
+    "color": "Black",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966621/christian_louboutin_logo_zuf73l.png"
@@ -417,13 +431,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "offers"
   },
   {
     "title": "Christian Louboutin",
     "productTag": "Christian Louboutin",
     "price": 1350000,
-    "color": "Colour",
+    "color": "Colbalt",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966621/christian_louboutin_logo_zuf73l.png"
@@ -445,13 +460,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "offers"
   },
   {
     "title": "Christian Louboutin",
     "productTag": "Christian Louboutin",
     "price": 250000,
-    "color": "Colour",
+    "color": "Black",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966621/christian_louboutin_logo_zuf73l.png"
@@ -473,13 +489,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "offers"
   },
   {
     "title": "Christian Louboutin",
     "productTag": "Christian Louboutin",
     "price": 500000,
-    "color": "Colour",
+    "color": "Silver",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966621/christian_louboutin_logo_zuf73l.png"
@@ -501,13 +518,14 @@
       "Product color: Core Black/Gold Metallic",
       "Rubber cupsole",
       "Textile lining"
-    ]
+    ],
+    "category": "offers"
   },
   {
     "title": "Christian Louboutin",
     "productTag": "Christian Louboutin",
     "price": 600000,
-    "color": "Colour",
+    "color": "Black",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966621/christian_louboutin_logo_zuf73l.png"
@@ -535,7 +553,7 @@
     "title": "Christian Louboutin",
     "productTag": "Christian Louboutin",
     "price": 1350000,
-    "color": "Colour",
+    "color": "Black",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739966621/christian_louboutin_logo_zuf73l.png"
@@ -563,7 +581,7 @@
     "title": "LOUIS VUITTON “Trainer Snowboot”",
     "productTag": "LOUIS VUITTON",
     "price": 430000,
-    "color": "Colour",
+    "color": "Black",
     "size": [10, 10.5, 11, 12, 12.5, 8.5],
     "logo": [
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png"
@@ -575,6 +593,482 @@
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png"
     ],
     "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "ADIDAS “Arizona”",
+    "productTag": "ADIDAS",
+    "price": 500000,
+    "color": "Green",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740390336/new_arrival21_nvcbbs.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740390336/new_arrival21_nvcbbs.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740390336/new_arrival21_nvcbbs.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740390336/new_arrival21_nvcbbs.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "BALENCIAGA ",
+    "productTag": "BALENCIAGA",
+    "price": 43000,
+    "color": "Blue&white",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740391587/newarrival23_csj30y.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740391587/newarrival23_csj30y.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740391587/newarrival23_csj30y.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740391587/newarrival23_csj30y.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740391587/newarrival23_csj30y.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740391587/newarrival23_csj30y.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "ADIDAS “Star Light”",
+    "productTag": "ADIDAS",
+    "price": 700000,
+    "color": "Rainbow",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740391122/new_arrival22_fghixd.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740391122/new_arrival22_fghixd.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740391122/new_arrival22_fghixd.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740391122/new_arrival22_fghixd.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740391122/new_arrival22_fghixd.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740391122/new_arrival22_fghixd.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "ADIDAS “Ultra Boost”",
+    "productTag": "ADIDAS",
+    "price": 400000,
+    "color": "White",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740392189/newarrival24_ozs3ku.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740392189/newarrival24_ozs3ku.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740392189/newarrival24_ozs3ku.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740392189/newarrival24_ozs3ku.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740392189/newarrival24_ozs3ku.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740392189/newarrival24_ozs3ku.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "BALENCIAGA“Urban Explorer”",
+    "productTag": "BALENCIAGA",
+    "price": 430000,
+    "color": "Gray",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740392739/newarrival25_ywbcls.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740392739/newarrival25_ywbcls.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740392739/newarrival25_ywbcls.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740392739/newarrival25_ywbcls.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740392739/newarrival25_ywbcls.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740392739/newarrival25_ywbcls.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "LOUIS VUITTON “Trainer Sneakers”",
+    "productTag": "LOUIS VUITTON",
+    "price": 200000,
+    "color": "rainbow",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740393496/newarrival_26_pvkljm.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740393496/newarrival_26_pvkljm.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740393496/newarrival_26_pvkljm.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740393496/newarrival_26_pvkljm.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740393496/newarrival_26_pvkljm.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740393496/newarrival_26_pvkljm.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "LOUIS VUITTON “CTBL”",
+    "productTag": "LOUIS VUITTON",
+    "price": 300000,
+    "color": "White",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740393626/newarrival27_jzl9c6.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740393626/newarrival27_jzl9c6.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740393626/newarrival27_jzl9c6.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740393626/newarrival27_jzl9c6.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740393626/newarrival27_jzl9c6.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740393626/newarrival27_jzl9c6.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "ADIDAS “SAMBAS”",
+    "productTag": "ADIDAS",
+    "price": 100000,
+    "color": "Green",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394105/new_arrival28_gdb421.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394105/new_arrival28_gdb421.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394105/new_arrival28_gdb421.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394105/new_arrival28_gdb421.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394105/new_arrival28_gdb421.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394105/new_arrival28_gdb421.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "BALENCIAGA“Speed runner”",
+    "productTag": "BALENCIAGA",
+    "price": 50000,
+    "color": "Black",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394488/newarrival29_p59tdg.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394488/newarrival29_p59tdg.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394488/newarrival29_p59tdg.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394488/newarrival29_p59tdg.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394488/newarrival29_p59tdg.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394488/newarrival29_p59tdg.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "LOUIS VUITTON “ mid-night boot”",
+    "productTag": "LOUIS VUITTON",
+    "price": 430000,
+    "color": "Blue&white",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394757/newarrival30_gj9b2w.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394757/newarrival30_gj9b2w.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394757/newarrival30_gj9b2w.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394757/newarrival30_gj9b2w.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394757/newarrival30_gj9b2w.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740394757/newarrival30_gj9b2w.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "LOUIS VUITTON “Babies 360-dx",
+    "productTag": "LOUIS VUITTON",
+    "price": 430000,
+    "color": "White",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740395831/image_341_m8yk17.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740395831/image_341_m8yk17.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740395831/image_341_m8yk17.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740395831/image_341_m8yk17.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740395831/image_341_m8yk17.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "LOUIS VUITTON “Doks santos LV runners",
+    "productTag": "LOUIS VUITTON",
+    "price": 640000,
+    "color": "white",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740396047/image_342_no47rt.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740396047/image_342_no47rt.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740396047/image_342_no47rt.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740396047/image_342_no47rt.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740396047/image_342_no47rt.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "LOUIS VUITTON “LV Nigerian runners",
+    "productTag": "LOUIS VUITTON",
+    "price": 560000,
+    "color": "Green&white",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740396230/image_343_vbyqas.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740396230/image_343_vbyqas.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740396230/image_343_vbyqas.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740396230/image_343_vbyqas.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740396230/image_343_vbyqas.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "Skechers “LV Trainer Sneaker",
+    "productTag": "Skechers",
+    "price": 370000,
+    "color": "Rainbow",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740396907/image_339_q5k932.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740396907/image_339_q5k932.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740396907/image_339_q5k932.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740396907/image_339_q5k932.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740396907/image_339_q5k932.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "Skechers “LIGHTWEIGHT BREATHABLE",
+    "productTag": "Skechers",
+    "price": 720000,
+    "color": "Ash",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740402224/image_347_ljqt1t.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740402224/image_347_ljqt1t.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740402224/image_347_ljqt1t.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740402224/image_347_ljqt1t.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740402224/image_347_ljqt1t.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "Skechers “D'Lux Walker Trainers",
+    "productTag": "Skechers",
+    "price": 860000,
+    "color": "Blue",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740402467/image_348_xlnapo.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740402467/image_348_xlnapo.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740402467/image_348_xlnapo.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740402467/image_348_xlnapo.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740402467/image_348_xlnapo.png",
+    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
+    "productDetails": [
+      "Regular fit",
+      "Lace closure",
+      "Imported",
+      "Textile and suede upper",
+      "Product code: J12572",
+      "Product color: Core Black/Gold Metallic",
+      "Rubber cupsole",
+      "Textile lining"
+    ]
+  },
+  {
+    "title": "Skechers “Sketchers D'lite",
+    "productTag": "Skechers",
+    "price": 260000,
+    "color": "Black",
+    "size": [10, 10.5, 11, 12, 12.5, 8.5],
+    "logo": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png"
+    ],
+    "image": [
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740402850/Skechers_Womens_D_Lites_Play_On_Walking_Shoes_-_JCPenney-removebg-preview_1_dlwce3.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740402850/Skechers_Womens_D_Lites_Play_On_Walking_Shoes_-_JCPenney-removebg-preview_1_dlwce3.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740402850/Skechers_Womens_D_Lites_Play_On_Walking_Shoes_-_JCPenney-removebg-preview_1_dlwce3.png",
+      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740402850/Skechers_Womens_D_Lites_Play_On_Walking_Shoes_-_JCPenney-removebg-preview_1_dlwce3.png"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740402850/Skechers_Womens_D_Lites_Play_On_Walking_Shoes_-_JCPenney-removebg-preview_1_dlwce3.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",

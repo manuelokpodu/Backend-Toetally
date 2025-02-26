@@ -6,10 +6,10 @@ const signup = async (req, res, next) => {
   try {
     const { firstName, lastName, email, password } = req.body;
     
-    // Hash the password
+    
     const hashedPassword = await bcrypt.hash(password, 10);
 
-    // Create the user with all required fields
+    
     const user = await User.create({ 
       firstName, 
       lastName, 

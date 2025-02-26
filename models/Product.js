@@ -1,7 +1,6 @@
 const mongoose = require("mongoose");
 const { Schema } = mongoose;
 
-// Create an enum for the product tags (e.g., ADIDAS, NIKE)
 const productTagEnum = [
   "ADIDAS",
   "NIKE",
@@ -12,9 +11,8 @@ const productTagEnum = [
   "Christian Louboutin",
   "Skechers",
   "New Balance",
-]; // You can add more brands as needed
+];
 
-// Define the Shoe Schema
 const ProductSchema = new Schema(
   {
     title: {
@@ -39,17 +37,17 @@ const ProductSchema = new Schema(
     },
 
     size: {
-      type: [Number], // Array of sizes
+      type: [Number],
       required: true,
     },
 
     image: {
-      type: [String], // Array of image URLs
+      type: [String],
       required: true,
     },
 
     thumbnail: {
-      type: String, // Single image URL for the thumbnail
+      type: String,
       required: true,
     },
 
@@ -59,12 +57,15 @@ const ProductSchema = new Schema(
     },
 
     productDetails: {
-      type: [String], // Array of additional product features
+      type: [String],
       required: true,
+    },
+    category: {
+      type: String,
+      enum: ["newarrivals", "offers", "discount"],
     },
   },
   { timestamps: true },
-); // You can add a timestamp to track creation and updates
+);
 
-// Create and export the Shoe model
 module.exports = mongoose.model("Product", ProductSchema);
