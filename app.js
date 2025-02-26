@@ -52,7 +52,7 @@ app.use((err, req, res, next) => {
 app.use(express.static(path.join(__dirname, "public")));
 
 app.get("/logo", (req, res) => {
-  res.sendFile(path.join(__dirname, "public", "logo.png"));
+  res.sendFile(path.join(__dirname, "products.json"));
 });
 
 module.exports = app;
