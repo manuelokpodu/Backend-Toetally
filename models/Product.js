@@ -56,6 +56,11 @@ const ProductSchema = new Schema(
       required: true,
     },
 
+    logo: {
+      type: String,
+      required: true,
+    },
+
     productDetails: {
       type: [String],
       required: true,
