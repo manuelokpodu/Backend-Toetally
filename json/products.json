@@ -578,34 +578,6 @@
     ]
   },
   {
-    "title": "LOUIS VUITTON “Trainer Snowboot”",
-    "productTag": "LOUIS VUITTON",
-    "price": 430000,
-    "color": "Black",
-    "size": [10, 10.5, 11, 12, 12.5, 8.5],
-    "logo": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png"
-    ],
-    "image": [
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png",
-      "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png"
-    ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962152/newarrival1_yhp8jt.png",
-    "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
-    "productDetails": [
-      "Regular fit",
-      "Lace closure",
-      "Imported",
-      "Textile and suede upper",
-      "Product code: J12572",
-      "Product color: Core Black/Gold Metallic",
-      "Rubber cupsole",
-      "Textile lining"
-    ]
-  },
-  {
     "title": "ADIDAS “Arizona”",
     "productTag": "ADIDAS",
     "price": 500000,
@@ -620,7 +592,7 @@
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740390336/new_arrival21_nvcbbs.png",
       "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740390336/new_arrival21_nvcbbs.png"
     ],
-    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1739962936/Lvuitton_logo_gdyjj8.png",
+    "thumbnail": "https://res.cloudinary.com/dsxrpyyid/image/upload/v1740390336/new_arrival21_nvcbbs.png",
     "description": "These iconic Gazelle shoes get a creative Liberty London makeover. These sneakers are refreshed with a vibrantly printed textile and suede upper, putting everyday street style into a floral state of mind. Their rich history inspires a sense of sporty nostalgia, while Liberty London's artistic influence injects freshness.",
     "productDetails": [
       "Regular fit",
