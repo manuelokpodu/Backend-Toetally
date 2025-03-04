@@ -40,7 +40,6 @@ const getCart = async (req, res) => {
       "items.product",
     );
 
-    // If no cart exists, return an empty structure instead of null
     if (!cart) {
       cart = new Cart({ user: req.user.id, items: [] });
       await cart.save();
@@ -102,7 +101,6 @@ const removeFromCart = async (req, res) => {
 
     await cart.save();
 
-    // Fetch updated cart with product details
     const updatedCart = await Cart.findOne({ user: userId }).populate(
       "items.product",
     );
@@ -113,4 +111,84 @@ const removeFromCart = async (req, res) => {
   }
 };
 
-module.exports = { addToCart, getCart, updateQuantity, removeFromCart };
+// NEW: Increment quantity
+const incrementQuantity = async (req, res) => {
+  try {
+    const { productId } = req.params;
+    const userId = req.user.id;
+
+    const cart = await Cart.findOne({ user: userId });
+
+    if (!cart) {
+      return res.status(404).json({ message: "Cart not found" });
+    }
+
+    const item = cart.items.find(
+      (item) => item.product.toString() === productId,
+    );
+
+    if (!item) {
+      return res.status(404).json({ message: "Item not found in cart" });
+    }
+
+    item.quantity += 1;
+    await cart.save();
+
+    const updatedCart = await Cart.findOne({ user: userId }).populate(
+      "items.product",
+    );
+
+    res.status(200).json(updatedCart);
+  } catch (err) {
+    res.status(500).json({ message: "Error incrementing quantity" });
+  }
+};
+
+// NEW: Decrement quantity
+const decrementQuantity = async (req, res) => {
+  try {
+    const { productId } = req.params;
+    const userId = req.user.id;
+
+    const cart = await Cart.findOne({ user: userId });
+
+    if (!cart) {
+      return res.status(404).json({ message: "Cart not found" });
+    }
+
+    const item = cart.items.find(
+      (item) => item.product.toString() === productId,
+    );
+
+    if (!item) {
+      return res.status(404).json({ message: "Item not found in cart" });
+    }
+
+    if (item.quantity > 1) {
+      item.quantity -= 1;
+    } else {
+      cart.items = cart.items.filter(
+        (item) => item.product.toString() !== productId,
+      );
+    }
+
+    await cart.save();
+
+    const updatedCart = await Cart.findOne({ user: userId }).populate(
+      "items.product",
+    );
+
+    res.status(200).json(updatedCart);
+  } catch (err) {
+    res.status(500).json({ message: "Error decrementing quantity" });
+  }
+};
+
+module.exports = {
+  addToCart,
+  getCart,
+  updateQuantity,
+  removeFromCart,
+  incrementQuantity,
+  decrementQuantity,
+};
