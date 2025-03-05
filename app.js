@@ -66,6 +66,8 @@ const cors = require("cors");
 const morgan = require("morgan");
 const path = require("path");
 
+const contactRoutes = require("./routes/contactRoutes");
+const subscriberRoutes = require("./routes/subscriberRoutes");
 const orderRoutes = require("./routes/orderRoutes");
 const paymentRoutes = require("./routes/paymentRoutes");
 const productRoutes = require("./routes/productRoutes");
@@ -74,6 +76,12 @@ const newsletterRoutes = require("./routes/newsletterRoutes");
 const cartRoutes = require("./routes/cartRoutes");
 
 const app = express();
+
+app.use(express.json()); // Body parser
+
+// Routes
+app.use("/contact", contactRoutes);
+app.use("/subscribe", subscriberRoutes);
 
 const allowedOrigins = [
   "https://toe-tally-frontend-lzmv.vercel.app",

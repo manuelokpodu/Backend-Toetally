@@ -6,12 +6,7 @@ const bodyParser = require("body-parser");
 const nodemailer = require("nodemailer");
 const connectDB = require("./db/connection");
 
-// MongoDB Schema & Model
-const subscriberSchema = new mongoose.Schema({
-  email: { type: String, required: true, unique: true },
-  subscribedAt: { type: Date, default: Date.now },
-});
-const Subscriber = mongoose.model("Subscriber", subscriberSchema);
+
 
 // Subscribe Endpoint
 app.post("/subscribe", async (req, res) => {
@@ -50,6 +45,12 @@ app.post("/subscribe", async (req, res) => {
     console.error("Error in subscription:", error);
     res.status(500).json({ message: "Internal Server Error" });
   }
+});
+
+app.use(express.json()); // Middleware to parse JSON
+
+app.get("/", (req, res) => {
+  res.send("Welcome to Contact Form API");
 });
 
 // Start Server
